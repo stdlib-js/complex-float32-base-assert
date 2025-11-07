@@ -4,12 +4,14 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-28)
+## Unreleased (2025-11-07)
 
 <section class="features">
 
 ### Features
 
+-   [`46781e0`](https://github.com/stdlib-js/stdlib/commit/46781e08e44b6f569313453dfd517799e98da393) - update `complex/float32/base/assert` TypeScript declarations
+-   [`da256e5`](https://github.com/stdlib-js/stdlib/commit/da256e5fe42c5c31463be8f7e3a2c1b35c8c7144) - add `isAlmostEqual` to namespace
 -   [`9d89154`](https://github.com/stdlib-js/stdlib/commit/9d8915457450867faad800fea902a043423f0e0e) - add `complex/float32/base/assert/is-almost-equal` [(#7622)](https://github.com/stdlib-js/stdlib/pull/7622)
 
 </section>
@@ -22,6 +24,10 @@
 
 <details>
 
+-   [`5f5bb2d`](https://github.com/stdlib-js/stdlib/commit/5f5bb2d4277a24000b57fb07bc28d821500cd7e8) - **docs:** update namespace table of contents [(#8425)](https://github.com/stdlib-js/stdlib/pull/8425) _(by stdlib-bot, Athan Reines)_
+-   [`46781e0`](https://github.com/stdlib-js/stdlib/commit/46781e08e44b6f569313453dfd517799e98da393) - **feat:** update `complex/float32/base/assert` TypeScript declarations _(by Philipp Burckhardt)_
+-   [`da256e5`](https://github.com/stdlib-js/stdlib/commit/da256e5fe42c5c31463be8f7e3a2c1b35c8c7144) - **feat:** add `isAlmostEqual` to namespace _(by Philipp Burckhardt)_
+-   [`7483bef`](https://github.com/stdlib-js/stdlib/commit/7483bef13b1d3241347266d25a02957269419825) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`71e8e76`](https://github.com/stdlib-js/stdlib/commit/71e8e767185b454e8f68d7fee778f3177f2e7f85) - **test:** add TS test for third parameter _(by Philipp Burckhardt)_
 -   [`9d89154`](https://github.com/stdlib-js/stdlib/commit/9d8915457450867faad800fea902a043423f0e0e) - **feat:** add `complex/float32/base/assert/is-almost-equal` [(#7622)](https://github.com/stdlib-js/stdlib/pull/7622) _(by Karan Anand)_
 
@@ -35,8 +41,9 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Karan Anand
 -   Philipp Burckhardt
 
