@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-17)
+## Unreleased (2025-12-18)
 
 <section class="features">
 
@@ -20,12 +20,25 @@
 
 <!-- /.features -->
 
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`668e314`](https://github.com/stdlib-js/stdlib/commit/668e3142881cad00228c2931daa527525c71b000) - use interface rather than class definition
+
+</section>
+
+<!-- /.bug-fixes -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`de9dec4`](https://github.com/stdlib-js/stdlib/commit/de9dec49411a9f71d800970e9324e87dca52098b) - **docs:** update namespace table of contents [(#9205)](https://github.com/stdlib-js/stdlib/pull/9205) _(by stdlib-bot)_
+-   [`668e314`](https://github.com/stdlib-js/stdlib/commit/668e3142881cad00228c2931daa527525c71b000) - **fix:** use interface rather than class definition _(by Athan Reines)_
+-   [`ed084b9`](https://github.com/stdlib-js/stdlib/commit/ed084b9112e1fc708074b29fcb63bbc31cdfaf09) - **chore:** rename variables _(by Athan Reines)_
 -   [`895d417`](https://github.com/stdlib-js/stdlib/commit/895d417410e631120c7d482ba6a07ab130e18c85) - **feat:** add `isAlmostSameValue` to namespace _(by Athan Reines)_
 -   [`95732eb`](https://github.com/stdlib-js/stdlib/commit/95732eba68a330d4038479784cd0d79cc002540a) - **feat:** add `complex/float32/base/assert/is-almost-same-value` _(by Athan Reines)_
 -   [`5f5bb2d`](https://github.com/stdlib-js/stdlib/commit/5f5bb2d4277a24000b57fb07bc28d821500cd7e8) - **docs:** update namespace table of contents [(#8425)](https://github.com/stdlib-js/stdlib/pull/8425) _(by stdlib-bot, Athan Reines)_
